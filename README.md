@@ -1,4 +1,4 @@
-# aggstool
+# Biographical-notes
 
 ## Example UI
 
